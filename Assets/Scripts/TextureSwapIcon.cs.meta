@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 544b408a11d09454c8af2d27a348fa0a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - me: {instanceID: 0}
+  - icon_1: {fileID: 2800000, guid: f415166aa3e3fcd45a8cb71cc53bbbcc, type: 3}
+  - iconBlimp: {fileID: 2800000, guid: e5fb88c040764c342958193f7df97e5b, type: 3}
+  - iconSkiff: {fileID: 2800000, guid: 9fcfd87fff44ca243a37d0d9568a4d83, type: 3}
+  - iconTug: {fileID: 2800000, guid: f481e4d51280ab844b5493c7ff6cfd55, type: 3}
+  - iconBlimpSp: {fileID: 2800000, guid: 7196f98e3de10164898ccc33e45ba5e2, type: 3}
+  - iconSkiffSp: {fileID: 2800000, guid: 0f3927e7dc4fbcd478c09b63786620ee, type: 3}
+  - iconTugSp: {fileID: 2800000, guid: deaa16c0e95bcef419c70ccaf3b8ac92, type: 3}
+  - iconBouySp: {fileID: 2800000, guid: 04b9a680de3317e4a8ca285b326a9913, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
